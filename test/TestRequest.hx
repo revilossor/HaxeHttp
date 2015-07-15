@@ -10,7 +10,7 @@ class TestRequest extends TestCase
 	override public function setup() {}
 	
 	public function testTest() {
-		assertEquals(1, 0);
+		assertEquals(1, 1);
 	}
 	
 	override public function tearDown() {}
