@@ -1,0 +1,4 @@
+-main test.Main
+-x Export/Test
+-cp Source/
+-cp Test/
