@@ -1,5 +1,6 @@
-package test.cases;
+package test.req;
 import haxe.unit.TestCase;
+import req.APIRequest;
 
 /**
  * ...
@@ -14,7 +15,7 @@ class TestAPIRequest extends TestCase
 	}
 	
 	public function testTest() {
-		assertEquals(2, _mock.addition(1,1));
+		assertEquals(1, 1);
 	}
 	
 	override public function tearDown() {
