@@ -5,7 +5,7 @@ import haxe.unit.TestCase;
  * ...
  * @author Oliver Ross
  */
-class TestRequest extends TestCase
+class TestAPIRequest extends TestCase
 {
 	var _mock:APIRequest;
 	
